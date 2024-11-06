@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Ler-Gravar-DadosCSV")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LerArquivoCSV")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Ler-Gravar-DadosCSV")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Ler-Gravar-DadosCSV")]
+[assembly: System.Reflection.AssemblyProductAttribute("LerArquivoCSV")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LerArquivoCSV")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

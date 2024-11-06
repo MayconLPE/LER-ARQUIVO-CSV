@@ -1,56 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "CsvHelper/33.0.1": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/CsvHelper.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net6.0/CsvHelper.dll": {
-            "related": ".xml"
-          }
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "CsvHelper/33.0.1": {
-      "sha512": "fev4lynklAU2A9GVMLtwarkwaanjSYB4wUqO2nOJX5hnzObORzUqVLe+bDYCUyIIRQM4o5Bsq3CcyJR89iMmEQ==",
-      "type": "package",
-      "path": "csvhelper/33.0.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "csvhelper.33.0.1.nupkg.sha512",
-        "csvhelper.nuspec",
-        "lib/net462/CsvHelper.dll",
-        "lib/net462/CsvHelper.xml",
-        "lib/net47/CsvHelper.dll",
-        "lib/net47/CsvHelper.xml",
-        "lib/net48/CsvHelper.dll",
-        "lib/net48/CsvHelper.xml",
-        "lib/net6.0/CsvHelper.dll",
-        "lib/net6.0/CsvHelper.xml",
-        "lib/net7.0/CsvHelper.dll",
-        "lib/net7.0/CsvHelper.xml",
-        "lib/net8.0/CsvHelper.dll",
-        "lib/net8.0/CsvHelper.xml",
-        "lib/netstandard2.0/CsvHelper.dll",
-        "lib/netstandard2.0/CsvHelper.xml",
-        "lib/netstandard2.1/CsvHelper.dll",
-        "lib/netstandard2.1/CsvHelper.xml"
-      ]
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "CsvHelper >= 33.0.1"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\windows\\.nuget\\packages\\": {}
@@ -58,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\DEV\\Ler-Gravar-DadosCSV\\Ler-Gravar-DadosCSV.csproj",
-      "projectName": "Ler-Gravar-DadosCSV",
-      "projectPath": "c:\\DEV\\Ler-Gravar-DadosCSV\\Ler-Gravar-DadosCSV.csproj",
+      "projectUniqueName": "C:\\DEV\\LerArquivoCSV\\LerArquivoCSV.csproj",
+      "projectName": "LerArquivoCSV",
+      "projectPath": "C:\\DEV\\LerArquivoCSV\\LerArquivoCSV.csproj",
       "packagesPath": "C:\\Users\\windows\\.nuget\\packages\\",
-      "outputPath": "c:\\DEV\\Ler-Gravar-DadosCSV\\obj\\",
+      "outputPath": "C:\\DEV\\LerArquivoCSV\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -95,12 +50,6 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
-        "dependencies": {
-          "CsvHelper": {
-            "target": "Package",
-            "version": "[33.0.1, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",

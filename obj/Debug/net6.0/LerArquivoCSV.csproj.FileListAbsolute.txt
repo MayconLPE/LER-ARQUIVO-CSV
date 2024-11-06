@@ -1,0 +1,14 @@
+c:\DEV\LerArquivoCSV\bin\Debug\net6.0\LerArquivoCSV.exe
+C:\DEV\LerArquivoCSV\bin\Debug\net6.0\LerArquivoCSV.deps.json
+C:\DEV\LerArquivoCSV\bin\Debug\net6.0\LerArquivoCSV.runtimeconfig.json
+c:\DEV\LerArquivoCSV\bin\Debug\net6.0\LerArquivoCSV.dll
+c:\DEV\LerArquivoCSV\bin\Debug\net6.0\LerArquivoCSV.pdb
+c:\DEV\LerArquivoCSV\obj\Debug\net6.0\LerArquivoCSV.GeneratedMSBuildEditorConfig.editorconfig
+c:\DEV\LerArquivoCSV\obj\Debug\net6.0\LerArquivoCSV.AssemblyInfoInputs.cache
+c:\DEV\LerArquivoCSV\obj\Debug\net6.0\LerArquivoCSV.AssemblyInfo.cs
+c:\DEV\LerArquivoCSV\obj\Debug\net6.0\LerArquivoCSV.csproj.CoreCompileInputs.cache
+c:\DEV\LerArquivoCSV\obj\Debug\net6.0\LerArquivoCSV.dll
+c:\DEV\LerArquivoCSV\obj\Debug\net6.0\refint\LerArquivoCSV.dll
+c:\DEV\LerArquivoCSV\obj\Debug\net6.0\LerArquivoCSV.pdb
+C:\DEV\LerArquivoCSV\obj\Debug\net6.0\LerArquivoCSV.genruntimeconfig.cache
+C:\DEV\LerArquivoCSV\obj\Debug\net6.0\ref\LerArquivoCSV.dll

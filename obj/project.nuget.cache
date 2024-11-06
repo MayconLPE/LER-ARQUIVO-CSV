@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wS2p8mpLQzY=",
+  "dgSpecHash": "jOdWnqMUZrc=",
   "success": true,
-  "projectFilePath": "C:\\DEV\\Ler-Gravar-DadosCSV\\Ler-Gravar-DadosCSV.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\windows\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\DEV\\LerArquivoCSV\\LerArquivoCSV.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

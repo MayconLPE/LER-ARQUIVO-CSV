@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DEV\\Ler-Gravar-DadosCSV\\Ler-Gravar-DadosCSV.csproj": {}
+    "C:\\DEV\\LerArquivoCSV\\LerArquivoCSV.csproj": {}
   },
   "projects": {
-    "C:\\DEV\\Ler-Gravar-DadosCSV\\Ler-Gravar-DadosCSV.csproj": {
+    "C:\\DEV\\LerArquivoCSV\\LerArquivoCSV.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DEV\\Ler-Gravar-DadosCSV\\Ler-Gravar-DadosCSV.csproj",
-        "projectName": "Ler-Gravar-DadosCSV",
-        "projectPath": "C:\\DEV\\Ler-Gravar-DadosCSV\\Ler-Gravar-DadosCSV.csproj",
+        "projectUniqueName": "C:\\DEV\\LerArquivoCSV\\LerArquivoCSV.csproj",
+        "projectName": "LerArquivoCSV",
+        "projectPath": "C:\\DEV\\LerArquivoCSV\\LerArquivoCSV.csproj",
         "packagesPath": "C:\\Users\\windows\\.nuget\\packages\\",
-        "outputPath": "C:\\DEV\\Ler-Gravar-DadosCSV\\obj\\",
+        "outputPath": "C:\\DEV\\LerArquivoCSV\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,12 +44,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "CsvHelper": {
-              "target": "Package",
-              "version": "[33.0.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
